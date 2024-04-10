@@ -1,0 +1,4 @@
+storePassword=14658
+keyPassword=14658
+keyAlias=upload
+storeFile=<keystore-file-location>
